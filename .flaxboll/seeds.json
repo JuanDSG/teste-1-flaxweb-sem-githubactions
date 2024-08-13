@@ -1,6 +1,4 @@
-
-            // file: ./.flaxboll/seeds.json
-            {
+{
     "sss_dirSystem": {
         "capsCodeInfo": {
             "1": {
@@ -42,7 +40,7 @@
                         "capsIptType": "capsules",
                         "capsIptCapsInfo": {
                             "capsIptCapsLabel": {
-                                "pt-br": "Diretórios e Arquivos",
+                                "pt-br": "DiretÃ³rios e Arquivos",
                                 "en": "Directories and Files"
                             },
                             "capsIptCapsDescription": {
