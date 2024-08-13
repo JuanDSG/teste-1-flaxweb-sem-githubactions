@@ -36,5 +36,5 @@ RN.AppRegistry.registerComponent("Router", () => Router);
 
 RN.AppRegistry.runApplication("Router", {
 rootTag: document.getElementById("root"),
-});, console.log("- - - - - AQUI 1 - DEU CERTO! - - -")
+});, console.log("- - - - - AQUI 1 - DEU CERTO 1! - - -")
         
