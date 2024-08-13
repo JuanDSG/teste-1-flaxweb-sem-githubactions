@@ -1,6 +1,4 @@
-
-            // file: ./.flaxboll/seeds.json
-            {
+{
   "sss_dirSystem": {
     "capsCodeInfo": {
       "1": {
@@ -10,7 +8,7 @@
         },
         "capsDescription": { "pt-br": "", "en": "" },
         "capsCodeTypes": ["flaxSystem", "dirSystem"],
-        "capsCodeText": "// "!#!name!#!", [!#!files!#!]",
+        "capsCodeText": "// \"!#!name!#!\", [!#!files!#!]",
         "capsCodeInputs": {
           "sss_dirSystem-0": {
             "capsIptCodeID": "sss_dirSystem-0",
@@ -30,7 +28,7 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Diretórios e Arquivos",
+                "pt-br": "DiretÃ³rios e Arquivos",
                 "en": "Directories and Files"
               },
               "capsIptCapsDescription": {
@@ -60,19 +58,10 @@
   "sss_fileSystem": {
     "capsCodeInfo": {
       "1": {
-        "capsLabel": {
-          "pt-br": "fileSystem",
-          "en": "fileSystem"
-        },
-        "capsDescription": {
-          "pt-br": "",
-          "en": ""
-        },
+        "capsLabel": { "pt-br": "fileSystem", "en": "fileSystem" },
+        "capsDescription": { "pt-br": "", "en": "" },
         "capsCodeTypes": ["flaxSystem", "fileSystem"],
-        "capsCodeText": "
-            // file: !#!path!#!
-            !#!code!#!
-        ",
+        "capsCodeText": "!#!code!#!",
         "capsCodeInputs": {
           "sss_fileSystem-0": {
             "capsIptCodeID": "sss_fileSystem-0",
@@ -93,8 +82,7 @@
             "capsIptCapsInfo": {
               "capsIptCapsLabel": { "pt-br": "code text", "en": "code text" },
               "capsIptCapsDescription": { "pt-br": "", "en": "" },
-              "capsIptCapsSeparator": "
-",
+              "capsIptCapsSeparator": "\n",
               "capsIptCapsDfCode": "// no code to inject",
               "capsIptCapsTypesToAdd": ["free value", "project"]
             }
@@ -154,5 +142,3 @@
     }
   }
 }
-
-        
