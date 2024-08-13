@@ -114,7 +114,7 @@
                         "capsIptCapsInfo": {
                             "capsIptCapsLabel": { "pt-br": "code text", "en": "code text" },
                             "capsIptCapsDescription": { "pt-br": "", "en": "" },
-                            "capsIptCapsSeparator": "/n",
+                            "capsIptCapsSeparator": "\n",
                             "capsIptCapsDfCode": "// no code to inject",
                             "capsIptCapsTypesToAdd": [ "free value", "project" ]
                         }
