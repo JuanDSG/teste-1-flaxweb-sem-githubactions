@@ -5,7 +5,7 @@ import React from 'react';
 import * as RN from 'react-native';
 
 // ---------- import Internals
-// import {SRC} from './src/index.tsx'
+import {SRC} from './src/index.tsx'
 
 console.log(">>>>> AQUI X - rodando o código!")
 
@@ -21,11 +21,11 @@ export default function Router() {
     height:'100%',
   }
 
-  // <SRC />
-
+  
   return (
     <RN.View style={stl}>
-      <RN.Text style={{color: 'white'}}>{'1 - Olá MOCK 3!'}</RN.Text>
+      <RN.Text style={{color: 'white'}}>{'1 - Olá MOCK 1!'}</RN.Text>
+      <SRC />
     </RN.View>  
   );
 };
