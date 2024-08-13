@@ -10,7 +10,7 @@ export const SRC = () => {
   <>
     <View style={{height:10}} />
     <Text style={{color:'white'}}>{'Hi from:'}</Text>
-    <Text style={{color:'white'}}>{'The SRC Module 4!'}</Text>
+    <Text style={{color:'white'}}>{'The SRC Module 5!'}</Text>
   </>
  )
 }
