@@ -112,19 +112,11 @@
                         "capsIptRemoved": false,
                         "capsIptType": "capsules",
                         "capsIptCapsInfo": {
-                            "capsIptCapsLabel": {
-                                "pt-br": "code text",
-                                "en": "code text"
-                            },
-                            "capsIptCapsDescription": {
-                                "pt-br": "",
-                                "en": ""
-                            },
+                            "capsIptCapsLabel": { "pt-br": "code text", "en": "code text" },
+                            "capsIptCapsDescription": { "pt-br": "", "en": "" },
+                            "capsIptCapsSeparator": "/n",
                             "capsIptCapsDfCode": "// no code to inject",
-                            "capsIptCapsTypesToAdd": [
-                                "free value",
-                                "project"
-                            ]
+                            "capsIptCapsTypesToAdd": [ "free value", "project" ]
                         }
                     }
                 },
