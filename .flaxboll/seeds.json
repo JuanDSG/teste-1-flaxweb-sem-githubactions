@@ -55,7 +55,7 @@
           "en": ""
         },
         "capsCodeTypes": ["flaxSystem", "fileSystem"],
-        "capsCodeText": "\n            // file: !#!path!#!\n            !#!code!#!\n        ",
+        "capsCodeText": "\n!#!code!#!\n",
         "capsCodeInputs": {
           "sss_fileSystem-0": {
             "capsIptCodeID": "sss_fileSystem-0",
