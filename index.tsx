@@ -7,12 +7,11 @@ import * as RN from 'react-native';
 // ---------- import Internals
 import { SRC } from './src/index.tsx';
  
-
 // ---------- set Main Component
 export default function Router() {
   const stl: RN.ViewStyle = {
-    // backgroundColor:'blue',
-    backgroundColor: 'green',
+    backgroundColor:'blue',
+    // backgroundColor: 'green',
     justifyContent: 'center',
     alignItems: 'center',
     width: '100%',
