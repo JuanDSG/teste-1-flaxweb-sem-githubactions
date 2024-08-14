@@ -5,7 +5,7 @@ import React from 'react';
 import * as RN from 'react-native';
 
 // ---------- import Internals
-import { SRC } from './src';
+import { SRC } from './src'; 
  
 // ---------- set Main Component
 export default function Router() {
