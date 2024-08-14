@@ -11,6 +11,9 @@
     "capsInitID": "xxx_dir1",
     "capsProjectID": "xxx_dir1",
 
+    "repositoryName": "teste-1-flaxweb-sem-githubactions",
+    "repositoryURL": "",
+
     "groupsControl": {
       "ggg_1": {
         "capsGroupID": "ggg_1",
