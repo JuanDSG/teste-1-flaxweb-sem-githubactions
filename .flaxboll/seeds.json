@@ -1,7 +1,4 @@
-
-
 {
- 
   "sss_dirSystem": {
     "capsCodeInfo": {
       "1": {
@@ -28,7 +25,7 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Diretórios e Arquivos",
+                "pt-br": "DiretÃ³rios e Arquivos",
                 "en": "Directories and Files"
               },
               "capsIptCapsDescription": { "pt-br": "", "en": "" },
@@ -49,7 +46,7 @@
       "capsUserID": "xxx1"
     }
   },
- 
+
   "sss_fileSystem": {
     "capsCodeInfo": {
       "1": {
@@ -59,9 +56,7 @@
           "en": ""
         },
         "capsCodeTypes": ["flaxSystem", "fileSystem"],
-        "capsCodeText": "
-!#!code!#!
-",
+        "capsCodeText": "\n!#!code!#!\n",
         "capsCodeInputs": {
           "sss_fileSystem-0": {
             "capsIptCodeID": "sss_fileSystem-0",
@@ -82,8 +77,7 @@
             "capsIptCapsInfo": {
               "capsIptCapsLabel": { "pt-br": "code text", "en": "code text" },
               "capsIptCapsDescription": { "pt-br": "", "en": "" },
-              "capsIptCapsSeparator": "
-",
+              "capsIptCapsSeparator": "\n",
               "capsIptCapsDfCode": "// no code to inject",
               "capsIptCapsTypesToAdd": ["free value", "project"]
             }
@@ -101,7 +95,7 @@
       "capsUserID": "xxx1"
     }
   },
- 
+
   "sss_freeValue": {
     "capsDB": {
       "capsUserID": "usrn5e3jr2CvvnDpHigA",
@@ -134,4 +128,4 @@
       }
     }
   }
- }
+}
