@@ -10,8 +10,8 @@ import { SRC } from './src';
 // ---------- set Main Component
 export default function Router() {
   const stl: RN.ViewStyle = {
-    backgroundColor:'blue',
-    // backgroundColor: 'green',
+    // backgroundColor: 'blue',
+    backgroundColor: 'green',
     justifyContent: 'center',
     alignItems: 'center',
     width: '100%',
