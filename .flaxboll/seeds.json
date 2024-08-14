@@ -99,6 +99,45 @@
     }
   },
  
+  "sss_joinfreeValue": {
+    "capsDB": {
+      "capsUserID": "usrn5e3jr2CvvnDpHigA",
+      "capsID": "sss_joinfreeValue",
+      "capsCreatedAt": { "seconds": 1, "nanoseconds": 7 },
+      "capsPrjID": "ZOqi3kZm6c7XjObC79xk"
+    },
+    "capsType": "code",
+    "capsCodeInfo": {
+      "1": {
+        "capsLabel": { "pt-br": "junta valor livre", "en": "join free value" },
+
+        "capsDescription": { "pt-br": "", "en": "" },
+        "capsCodeTypes": ["jsValue", "free value", "join free value"],
+        "capsCodeText": "!#!free value!#!",
+
+        "capsCodeVersionID": "1",
+        "capsCodeInputs": {
+          "sss_joinfreeValue-0": {
+            "capsIptType": "capsules",
+            "capsIptRemoved": false,
+            "capsIptCodeID": "sss_joinfreeValue-0",
+            "capsIptPosition": "0",
+            "capsIptCapsInfo": {
+              "capsIptCapsLabel": { "pt-br": "code text", "en": "code text" },
+              "capsIptCapsDescription": { "pt-br": "", "en": "" },
+
+              "capsIptCapsSeparator": "\n",
+
+              "capsIptCapsDfCode": "// no code to inject",
+              "capsIptCapsTypesToAdd": ["free value", "project"]
+            }
+          }
+        },
+        "capsVersionCreatedAt": { "seconds": 1, "nanoseconds": 7 }
+      }
+    }
+  },
+ 
   "sss_freeValue": {
     "capsDB": {
       "capsUserID": "usrn5e3jr2CvvnDpHigA",
